@@ -4,7 +4,7 @@ using namespace std;
 void prime(int l, int h)
 {
 
-    for( int l ; l<=h ; l++ )
+    for(  l ; l<=h ; l++ )
     {
         bool pr=true;
         if (l == 0 || l == 1)
